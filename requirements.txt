@@ -1,0 +1,6 @@
+diki_translate
+babla_translate
+gtts
+genanki
+pandas
+eng_to_ipa
